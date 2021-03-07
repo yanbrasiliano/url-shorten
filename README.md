@@ -12,7 +12,9 @@
 <p>Enjoying the script 🏁</p>
 
 <div>
+ 
 ![image](https://user-images.githubusercontent.com/72168914/110226025-f5a9bc00-7ec9-11eb-9f28-0ccf80915a80.png) 
+
 </div
 <div align="center">
 <footer>All shared scripts can be used and improved.</footer>
