@@ -1,4 +1,7 @@
-#Install
+#Install with the command in your terminal:
+#pip3 install pyshorteners or pip install pyshorteners
+#
+#
 #Library to import the function directly from python. 
 import pyshorteners
 
